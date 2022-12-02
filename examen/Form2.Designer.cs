@@ -79,7 +79,7 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(97, 208);
+            this.comboBox1.Location = new System.Drawing.Point(130, 208);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 2;
@@ -179,18 +179,18 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 211);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(63, 13);
+            this.label4.Size = new System.Drawing.Size(112, 13);
             this.label4.TabIndex = 15;
-            this.label4.Text = "nomDuQcm";
+            this.label4.Text = "nomDuQcm/Qouverte";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(38, 258);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(37, 13);
+            this.label5.Size = new System.Drawing.Size(94, 13);
             this.label5.TabIndex = 16;
-            this.label5.Text = "idQcm";
+            this.label5.Text = "idQcm/idQouverte";
             // 
             // label6
             // 

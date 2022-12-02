@@ -29,6 +29,7 @@ namespace examen
             typeQuestion();
 
 
+
         }
 
         private void confirm_Click(object sender, EventArgs e)
